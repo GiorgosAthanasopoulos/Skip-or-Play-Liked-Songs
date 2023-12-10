@@ -18,6 +18,7 @@ Spotify version: 1.2.26.1187.g36b715a1
   - [Spicetify-Getting Started](https://spicetify.app/docs/getting-started)
 - ```git clone https://github.com/giorgosathanasopoulos/skip-or-play-liked-songs```
 - ```cd skip-or-play-liked-songs```
+- ```npm install``` or ```yarn```
 - ```npm run build-local``` or ```yarn build-local```
 - ```cp dist/skip-or-play-liked-songs.js ~/.spicetify/Extensions/``` (Note: POSIX, Windows users modify accordingly)
 - If it's your first time using spicetify:
