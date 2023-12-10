@@ -3,15 +3,15 @@ Spicetify extension that allows users to only played like songs in a collection 
 
 Maintained version of [@Tetrax-10](https://github.com/Tetrax-10)'s archived [Skip-or-Play-Liked-Songs](https://github.com/Tetrax-10/Spicetify-Extensions/tree/master/Skip-or-Play-Liked-Songs) extension.
 
-Original repo: [Github](https://github.com/Tetrax-10/Spicetify-Extensions)
+Original repo: [Github](https://github.com/Tetrax-10/Spicetify-Extensions).
 
 # Version
 
-Date: 2023-12-10
+Date: 2023-12-10.
 
-Spicetify version: 2.28.1
+Spicetify version: 2.28.1.
 
-Spotify version: 1.2.26.1187.g36b715a1
+Spotify version: 1.2.26.1187.g36b715a1.
 
 # Usage
 - If you don't have spicetify installed:
