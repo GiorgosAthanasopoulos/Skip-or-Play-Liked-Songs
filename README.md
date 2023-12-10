@@ -23,7 +23,7 @@ Spotify version: 1.2.26.1187.g36b715a1
 - ```cp dist/skip-or-play-liked-songs.js ~/.spicetify/Extensions/``` (Note: POSIX, Windows users modify accordingly)
 - If it's your first time using spicetify:
   - ```spicetify backup apply```
-- ```spicetify config extenions skip-or-play-liked-songs.js```
+- ```spicetify config extensions skip-or-play-liked-songs.js```
 - ```spicetify apply```
 - Next time you start Spotify, you should have a menu item ```Play/Skip Liked Songs``` under your profile
   picture's click-menu. Hover over the item and select the mode to use.
