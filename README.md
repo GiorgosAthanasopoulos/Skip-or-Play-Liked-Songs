@@ -10,9 +10,7 @@ This Extension Skips or Plays Liked Songs only
 
 Very Useful if you are Discovering new Songs or want to play your Fav Songs in a PlayList or Album.
 
-Wanna discuss or having issues with my extensions? Ping ~~`@Tetrax-10`~~ `@georglassen` on Discord
-
-<p align="left"><a href="https://discord.gg/DaUbPmbDwr"><img src="https://raw.githubusercontent.com/Tetrax-10/Nord-Spotify/master/assets/join-discord-button.png" width="150px"></a></p>
+Wanna discuss or having issues with my extensions? Ping `@georglassen` on Discord
 
 <br />
 
