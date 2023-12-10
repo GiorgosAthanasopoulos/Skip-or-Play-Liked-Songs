@@ -2,7 +2,7 @@
     "name": "Skip or Play Liked Songs",
     "description": "Skip or Play liked songs in Spotify collections(playlist/albums/etc..).",
     "preview": "preview.png",
-    "main": "src/app.js",
+    "main": "skipOrPlayLikedSongs.js",
     "readme": "README.md",
     "branch": "master",
     "authors": [
