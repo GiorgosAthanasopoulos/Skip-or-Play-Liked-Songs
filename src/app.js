@@ -28,11 +28,11 @@ let skipOrPlayLikedSongsCount = 0
             }
         }
 
-        function getLocalStorageDataFromKey(key: string) {
+        function getLocalStorageDataFromKey(key) {
             return Spicetify.LocalStorage.get(key)
         }
 
-        function setLocalStorageDataWithKey(key: string, value: any) {
+        function setLocalStorageDataWithKey(key, value) {
             Spicetify.LocalStorage.set(key, value)
         }
 
@@ -95,7 +95,7 @@ let skipOrPlayLikedSongsCount = 0
                 count++
             }
 
-            function likedSongsMode(mode: string) {
+            function likedSongsMode(mode) {
                 if (mode === "play") {
                     playLikedOnly()
                     Spicetify.Player.addEventListener("songchange", playLikedOnly)
