@@ -53,5 +53,6 @@ spicetify apply
 🌟 Like it? Gimme Some Love ! 💕
 
 [![Github Stars badge](https://img.shields.io/github/stars/GiorgosAthanasopoulos/Skip-or-Play-Liked-Songs?logo=github&style=social)](https://github.com/GiorgosAthanasopoulos/Skip-or-Play-Liked-Songs)
+
 Original repo:
 [![Github Stars badge](https://img.shields.io/github/stars/Tetrax-10/Spicetify-Extensions?logo=github&style=social)](https://github.com/Tetrax-10/Spicetify-Extensions)
