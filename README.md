@@ -1,4 +1,6 @@
-# Skip or Play Liked Songs - Spotify
+# Skip or Play Liked Songs - Spotify/Spicetify
+Spicetify extension that allows users to only played like songs in a collection (playlist/album/etc..) or skip them. Can also be disabled.
+
 Maintained version of [@Tetrax-10](https://github.com/Tetrax-10)'s archived [Skip-or-Play-Liked-Songs](https://github.com/Tetrax-10/Spicetify-Extensions/tree/master/Skip-or-Play-Liked-Songs) extension.
 
 Original repo: [Github](https://github.com/Tetrax-10/Spicetify-Extensions)

@@ -40,15 +40,7 @@ let skipOrPlayLikedSongsCount = 0
             let count = 0
             function isLiked() {
                 return Spicetify.Player.getHeart()
-                /*
-                    if (Spicetify.Player.data.track.metadata["collection.in_collection"] == "true") {
-                        return true
-                    } else {
-                        return false
-                    }
-                */
             }
-
             function playLikedOnly() {
                 if (count <= 49) {
                     if (!isLiked()) {
