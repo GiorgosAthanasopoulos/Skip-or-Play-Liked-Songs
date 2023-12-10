@@ -1,18 +1,18 @@
 {
     "name": "Skip or Play Liked Songs",
-    "description": "(Working Fork)This Extension Skips or Plays Liked Songs only",
+    "description": "(Working Fork)This Extensions Skips or Plays Liked Songs only.Fork of Tetrax-10/Spicetify-Extensions/Skip-or-Play-Liked-Songs.",
     "preview": "preview.png",
     "main": "skipOrPlayLikedSongs.js",
     "readme": "README.md",
     "branch": "master",
     "authors": [
         {
-            "name": "Tetrax-10",
-            "url": "https://github.com/Tetrax-10"
-        },
-        {
             "name": "GiorgosAthanasopoulos",
             "url": "https://github.com/GiorgosAthanasopoulos"
+        },
+        {
+            "name": "Tetrax-10",
+            "url": "https://github.com/Tetrax-10"
         }
     ],
     "tags": [
