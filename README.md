@@ -12,6 +12,8 @@ Very Useful if you are Discovering new Songs or want to play your Fav Songs in a
 
 Wanna discuss or having issues with my extensions? Ping ~~`@Tetrax-10`~~ `@georglassen` on Discord
 
+<p align="left"><a href="https://discord.gg/DaUbPmbDwr"><img src="https://raw.githubusercontent.com/Tetrax-10/Nord-Spotify/master/assets/join-discord-button.png" width="150px"></a></p>
+
 <br />
 
 ![Screenshot](https://raw.githubusercontent.com/GiorgosAthanasopoulos/skip-or-play-liked-songs/master/screenshot.png)
