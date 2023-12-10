@@ -1,6 +1,6 @@
 {
     "name": "Skip or Play Liked Songs",
-    "description": "(Working Fork)This Extension Skips or Plays Liked Songs only",
+    "description": "(Working)Fork of Skip or Play Liked Songs by Tetrax-10.",
     "preview": "preview.png",
     "main": "skipOrPlayLikedSongs.js",
     "readme": "README.md",
