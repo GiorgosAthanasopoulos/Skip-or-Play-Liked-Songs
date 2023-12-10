@@ -27,9 +27,3 @@ Spotify version: 1.2.26.1187.g36b715a1.
 - ```spicetify apply```
 - Next time you start Spotify, you should have a menu item ```Play/Skip Liked Songs``` under your profile
   picture's click-menu. Hover over the item and select the mode to use.
-
-# Note 
-I will try to push this maintained version in the spicetify marketplace for ease-of-use.
-
-I will update with my progress.
-
