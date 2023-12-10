@@ -1,5 +1,5 @@
 // NAME: Skip or Play Liked Songs
-// AUTHOR: Tetrax-10
+// AUTHOR: Tetrax-10, GiorgosAthanasopoulos
 // DESCRIPTION: Skip or Play liked songs only
 let skipOrPlayLikedSongsCount = 0
     ; (async function skipOrPlayLikedSongs() {
