@@ -1,5 +1,11 @@
 # Skip or Play Liked Songs
 
+**NOTE**: Fork of Tetrax-10/Spicetify-Extensions/Skip-or-Play-Liked-Songs/. 
+
+Original extension in unmaintained and archived, so I forked to bring it back to life.
+
+ORIGINAL README:
+
 This Extension Skips or Plays Liked Songs only
 
 Very Useful if you are Discovering new Songs or want to play your Fav Songs in a PlayList or Album.
