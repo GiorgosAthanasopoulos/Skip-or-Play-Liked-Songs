@@ -2,7 +2,7 @@
 
 **NOTE**: (Working) Fork of [Tetrax-10/Spicetify-Extensions](https://github.com/Tetrax-10/Spicetify-Extensions)/Skip-or-Play-Liked-Songs/. 
 
-Original extension in unmaintained and archived, so I forked to bring it back to life.
+Original extension in unmaintained/not-functional and archived, so I forked to bring it back to life.
 
 ORIGINAL README(with some modifications):
 
