@@ -1,6 +1,6 @@
 # Skip or Play Liked Songs
 
-**NOTE**: Fork of Tetrax-10/Spicetify-Extensions/Skip-or-Play-Liked-Songs/. 
+**NOTE**: Fork of [Tetrax-10/Spicetify-Extensions](https://github.com/Tetrax-10/Spicetify-Extensions)/Skip-or-Play-Liked-Songs/. 
 
 Original extension in unmaintained and archived, so I forked to bring it back to life.
 
