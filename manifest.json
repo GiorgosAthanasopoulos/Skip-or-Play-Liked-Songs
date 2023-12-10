@@ -1,6 +1,6 @@
 {
     "name": "Skip or Play Liked Songs",
-    "description": "This Extension Skips or Plays Liked Songs only",
+    "description": "(Working Fork)This Extension Skips or Plays Liked Songs only",
     "preview": "preview.png",
     "main": "skipOrPlayLikedSongs.js",
     "readme": "README.md",
